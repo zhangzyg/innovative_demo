@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    font-size: 20px;
+    
+}
+
+map{
+    align-self: auto;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+button{
+    align-self: auto;
+}
